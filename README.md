@@ -5,7 +5,7 @@
 <br />
 - to test if the ESP32S3 works, before making a big project based on it.
 <br />
-- every connection going from the ESP module is disconectible
+- every connection going from the ESP module is disconnectable
 <br />
 - 4x RGB led ws2812B
 <br />
