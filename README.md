@@ -1,6 +1,6 @@
 # ESP32_S3-test-board
 
-- it's just ESP, Leds and life support lol \skip
+- it's just ESP, Leds and life support lol </br>
 - to test if the ESP32S3 works, before making a big project based on it.
 - every connection going from the ESP module is disconectible 
 - 4x RGB led ws2812B
