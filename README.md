@@ -2,6 +2,7 @@
 <br />
 - it's just ESP, Leds and life support lol
 <br />
+<br />
 - to test if the ESP32S3 works, before making a big project based on it.
 <br />
 - every connection going from the ESP module is disconectible
