@@ -13,5 +13,5 @@
 
 <!-- status: hotový design desky, objednáno, osazeno, oskoušeno -->
 <!-- funkčnost: Ano -->
-![alt text](https://github.com/[timecek]/[ESP32_S3-test-board ]/blob/[branch]/1715885704626.jpg?raw=true)
+![alt text](https://github.com/[timecek]/[ESP32_S3-test-board ]/blob/[main]/1715885704626.jpg?raw=true)
 
